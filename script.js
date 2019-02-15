@@ -1,5 +1,5 @@
 $("#img1").click(function(){
-    $("#text").text("Double click me");
+    $("#text").text("Double click on the picture");
     $("#text").css("fontSize", "50px");
     $("#img1").fadeToggle();
     $("#img2").show();
